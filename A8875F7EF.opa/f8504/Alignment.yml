@@ -1,0 +1,22 @@
+segment_sources:
+  IF2668C4E:
+    type: origin_type
+    relation: translation
+    language: en
+  I1466654F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  132f3762798e4007bc34da4d4ea4dd7e:
+    IF2668C4E: 6a5a68012c38494fa496d60a60c31103
+    I1466654F: 1c56c8bfff33424fa88ac3558ee6e466
+  5df6a0b279cf4fdb91c2ef3b58f4ca21:
+    IF2668C4E: 6903a1d46db94e2ab47600fe6b7cb284
+    I1466654F: d4ab76feb09a4f11b3addfd997dcfe99
+  77569e45959a4ed59667743e0d9526c3:
+    IF2668C4E: d34cb2b2c9694529a0a93d3cf48e5d97
+    I1466654F: 32aac02ac91f4af98a0c06efe7d7961d
+  2c1d74bd70bb4e86b16ca92fa41e6460:
+    IF2668C4E: dc96d326cc6649b1b0c2cba06f0cbe95
+    I1466654F: 8e8318a90be447f2869dec858c8a15f9
